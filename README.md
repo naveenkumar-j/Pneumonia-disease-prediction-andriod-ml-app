@@ -1,4 +1,4 @@
-<h1 align="center">Pneumonia disease prediction andriod machine learning app</h1>
+<h1 align="center" id="app">Pneumonia disease prediction andriod machine learning app</h1>
 
 - ### Tech Stack used:
 	<center>
@@ -41,6 +41,6 @@ Pneumonia is a dangerous disease that may occur in one or both lungs usually cau
 https://user-images.githubusercontent.com/70682152/161732691-cb6af007-4f9f-4f29-b012-a866e1aadb42.mp4
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#app">↥ back to top</a></b>
 </div>
 
